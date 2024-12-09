@@ -1,0 +1,26 @@
+﻿{
+  "build_artifactstagingdirectory": "1\\a",
+  "agent_builddirectory": "1",
+  "collectionUrl": "https://dev.azure.com/mounaoulbacha18/",
+  "definitionName": "Mouna-Oulbacha.TodoList-AzureTp",
+  "repositoryTrackingInfo": [
+    {
+      "identifier": "self",
+      "repositoryType": "GitHub",
+      "repositoryUrl": "https://github.com/Mouna-Oulbacha/TodoList-AzureTp",
+      "sourcesDirectory": "1\\s\\TodoList-AzureTp"
+    }
+  ],
+  "fileFormatVersion": 3,
+  "lastRunOn": "12/09/2024 01:31:25 +01:00",
+  "repositoryType": "GitHub",
+  "lastMaintenanceAttemptedOn": "",
+  "lastMaintenanceCompletedOn": "",
+  "build_sourcesdirectory": "1\\s",
+  "common_testresultsdirectory": "1\\TestResults",
+  "collectionId": "7adb926c-087e-4f35-a659-0b2e48c8fcb5",
+  "definitionId": "1",
+  "hashKey": "80de4150d48a982f5983d23045e8f561eafe4dff",
+  "repositoryUrl": "https://github.com/Mouna-Oulbacha/TodoList-AzureTp",
+  "system": "build"
+}
